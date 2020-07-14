@@ -9,4 +9,6 @@ KB카드 업종별 월별 매출액(대전시 제공)\
 대전광역시 CCTV 정보 (공공데이터포털)\
 대전광역시지방경찰청 대전지역 요일별 시간대별 범죄 발생현황_2017(공공데이터포털)\
 동별 면적 (km^2): 각 구별 홈페이지(유성구 : http://www.yuseong.go.kr/ kr/, 동구 : https://www.donggu.go.kr/dg/kor , 대덕구 : http://www.daedeok.go.kr/dpt/DPT.do , 서구 : http://www.seogu.go.kr/kor/main.do , 중구 : http://www.djjunggu.go.kr/html/kr/)\
-여성 1인가구 수(주혜진 (2017), 대전지역 여성 1 인가구의 특성과 정책 현안)\
+여성 1인가구 수(주혜진 (2017), 대전지역 여성 1 인가구의 특성과 정책 현안)
+
+
