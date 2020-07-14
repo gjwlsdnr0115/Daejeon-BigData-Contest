@@ -41,15 +41,17 @@ KB카드 업종별 월별 매출액 데이터를 통해 2019.1~2020.3 동안 각
 선행연구를 참고하여 각 데이터 지표의 중요도를 산정\
 이를 행렬로 만들어 제곱한 후 각 행을 더하여 최종 상대적 중요도 산출
 
-이미지
+<img src="images/matrix.png" width="65%" height="65%">
+<img src="images/weight.png" width="40%" height="40%">
+
 
 위와 같은 방식으로 각 지표에 대하여 행정동별 위험도를 산정 및 계산 (79 x 79 행렬 6개)\
 각 행정동 마다 앞서 계산한 중요도를 합산하여 모든 지표를 더하여 최종 위험도 산출
 
 ## 결과
 
-![title](images/result1.png)
-![title](images/result2.png)
-![title](images/result3.png)
-![title](images/result4.png)
+<img src="images/result1.png" width="70%" height="70%">
+<img src="images/result2.png" width="70%" height="70%">
+<img src="images/result3.png" width="70%" height="70%">
+<img src="images/result4.png" width="50%" height="50%">
 
