@@ -48,5 +48,8 @@ KB카드 업종별 월별 매출액 데이터를 통해 2019.1~2020.3 동안 각
 
 ## 결과
 
-
+![alt text](images/result1.png?raw=true "Title")
+![alt text](images/result2.png?raw=true "Title")
+![alt text](images/result3.png?raw=true "Title")
+![alt text](images/result4.png?raw=true "Title")
 
