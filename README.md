@@ -8,6 +8,7 @@
 * KB카드 업종별 월별 매출액(대전시 제공)
 * 대전광역시 CCTV 정보(공공데이터포털)
 * 대전광역시지방경찰청 대전지역 요일별 시간대별 범죄 발생현황_2017(공공데이터포털)
+* 2020년 4월말 주민등록현황(대전의 통계, https://www.daejeon.go.kr/sta/StaStatisticsFldList.do?menuSeq=180&colmn1Cont=C0201&colmn2Cont=C020101)
 * 동별 면적 (km^2): 각 구별 홈페이지(유성구 : http://www.yuseong.go.kr/ kr/, 동구 : https://www.donggu.go.kr/dg/kor , 대덕구 : http://www.daedeok.go.kr/dpt/DPT.do , 서구 : http://www.seogu.go.kr/kor/main.do , 중구 : http://www.djjunggu.go.kr/html/kr/)
 * 여성 1인가구 수(주혜진 (2017), 대전지역 여성 1 인가구의 특성과 정책 현안)
 
@@ -54,3 +55,9 @@ KB카드 업종별 월별 매출액 데이터를 통해 2019.1~2020.3 동안 각
 <img src="images/result2.png" width="70%" height="70%">
 <img src="images/result3.png" width="70%" height="70%">
 <img src="images/result_final.jpg" width="50%" height="50%">
+
+## 참고문헌
+* 주혜진 (2017), 대전지역 여성 1 인가구의 특성과 정책 현안
+* '여성안심 못시키는 여성 안심귀가스카우트 서비스', 시사저널, 2019.10.13, 2020.05.28 검색, (https://www.sisajournal.com/news/articleView.html?idxno=191040)
+* '수원 경찰, 유흥가 전담 범죄예방센터 운영 톡톡한 효과', YTN, 2020.06.25, 2020.07.05 검색, (https://www.ytn.co.kr/_ln/0103_202006251006219828)
+* '"대전시민이어서 자랑스러워요" 시민 절반 이상 답해', 스포츠서울, 2020.02.09, 2020.07.07 검색, (http://www.sportsseoul.com/news/read/881603)
